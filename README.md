@@ -29,7 +29,7 @@ export class Programming {
 
 export class Social {
 
-  website: string = 'https://'
+  website: string = 'https://gabo-p.github.io/'
   github: string = 'Gabo-p'
   instagram: string = '@gabo_v_0'
   discord: string = 'Gabo#6362'
