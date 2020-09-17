@@ -38,7 +38,7 @@ export class Social {
   
 }
 
-
+```
 <div align="center">
 	<br>
 	  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" />
