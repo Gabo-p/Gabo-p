@@ -11,7 +11,7 @@ export class Info {
 
   name: string = 'Gabriel Perez'
   age: number = 19
-  nationality: string = ['Hondureño']
+  nationality: string = 'Hondureño'
   languages: Record<string, string>[] = [{ 'Spanish': 'Native' }, { 'English': '80%' }]
   occupation: string = 'Web Developer and Designer, Student'
   freetime: string[] = ['Video Edition', 'Reading', 'Photography']
