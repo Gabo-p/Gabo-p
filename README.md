@@ -12,7 +12,7 @@ export class Info {
   age: number = 19
   nationality: string = 'Hondureño'
   languages: Record<string, string>[] = [{ 'Spanish': 'Native' }, { 'English': '80%' }]
-  occupation: string = 'Web Developer and Designer, Student'
+  occupation: string = 'Web and mobile Developer, Designer, Student'
   freetime: string[] = ['Video Edition', 'Reading', 'Photography']
 
 }
@@ -23,7 +23,7 @@ export class Programming {
   stylesheets: string[] = ['CSS', 'SASS', 'SCSS']
   frameworks/SDK: string[] = ['Next.js', 'React', 'Flutter']
   runtimes: string[] = ['Node']
-  databases: string[] = ['MySQL', 'MongoDB', 'Firebase']
+  databases: string[] = ['MySQL', 'SQLite', 'Firebase']
 
 }
 
